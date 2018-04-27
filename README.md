@@ -1,7 +1,7 @@
-# LDA for board game recommendations
-A scratch patch for playing with latent Dirichlet allocation for board game recommendation.
+# LDA for board game recommendation
+### A scratch patch for playing with latent Dirichlet allocation
 
-Unfortunately it's too large to attach here, but the data was (painstakingly) scraped from [Board Game Geek](www.boardgamegeek.com). I will provide a template script as soon as it's cleaned up, but [this](https://github.com/ThaWeatherman/scrapers/tree/master/boardgamegeek)is probably a good starting point.
+Unfortunately it's too large to attach here, but the data was (painstakingly) scraped from [Board Game Geek](www.boardgamegeek.com). I will provide a template script as soon as it's cleaned up, but [this](https://github.com/ThaWeatherman/scrapers/tree/master/boardgamegeek) is probably a good starting point in the meantime.
 
 The dataset I ended up with consists of 10,000 games (which were all rated by at least 100 unique users), 238,483 unique user accounts and more than 18 million individual game ratings.
 
